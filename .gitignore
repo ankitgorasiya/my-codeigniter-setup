@@ -1,0 +1,3 @@
+# Ignore configuration files that may contain sensitive information.
+/application/config/config.php
+/application/config/database.php
